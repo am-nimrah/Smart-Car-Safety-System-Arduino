@@ -72,7 +72,7 @@ Install these via Arduino Library Manager:
 
 ## Demo
 
-![Circuit Demo](demo.jpg)
+![Circuit Demo](simulation.png)
 
 ---
 
